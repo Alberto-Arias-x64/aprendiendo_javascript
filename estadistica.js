@@ -1,0 +1,1 @@
+const kk = document.getElementById("#nepe");
